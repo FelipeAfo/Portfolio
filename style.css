@@ -358,13 +358,14 @@ nav .close-icon{
     gap: 16%;
     justify-content: center;
     margin-bottom: 5rem;
+    flex-wrap: wrap
   }
   
   .projetos-icon {
     width: 90%;
     max-width: 400px;
     min-width: 320px;
-    min-height: 350px;
+    min-height: 460px;
     word-wrap: break-word;
   }
 
@@ -542,4 +543,4 @@ footer a{
 
  footer a:hover{
   color: white;
- }
+ } 
